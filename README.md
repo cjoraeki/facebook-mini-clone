@@ -1,1 +1,1 @@
-# facebook-clone
+# facebook-mini-clone
